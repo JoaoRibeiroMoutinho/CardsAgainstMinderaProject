@@ -81,7 +81,11 @@ This Java implementation allows you to play the game in a console environment, p
 - Compile the ClientLauncher and run it;
 - Enjoy the game ;) 
 
-
+## Project made by:
+-José Ribeiro
+-Fábio Guedes
+-João Ribeiro
+-Carlos Curtinhas
 
 
 
